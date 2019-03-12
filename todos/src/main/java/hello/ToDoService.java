@@ -51,7 +51,7 @@ public class ToDoService {
      */
     public List<ToDo> getToDos (int page){
        // System.out.println("Page " + page);
-    	System.out.println("max page" + maxPages);
+    	//System.out.println("max page" + maxPages);
     	
    
         if (page == 0) {
